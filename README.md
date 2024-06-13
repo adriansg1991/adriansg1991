@@ -1,3 +1,24 @@
-Hola a todos/as,
+<div align="center">
+<h1 align="center">Hola, soy <a href="https://linkedin.com/in/adriansanchez-garcia">Adrián Sánchez</a> 👋</h1>
+</div>
+¡Hola a todos!
 
-En esta cuenta de github compartiré los diferentes proyectos que voy realizando con python y las librerias pandas, numpy, matplotlib y seaborn. 
+Mi nombre es Adrián y soy graduado en Administración y Dirección de Empresas. A lo largo de mi carrera, he desarrollado una sólida base en contabilidad y finanzas, lo que me ha permitido entender a fondo los procesos contables y financieros dentro de las organizaciones.
+
+Además, me he especializado en el análisis de datos utilizando herramientas como Python, SQL, Power BI y Excel. Esta combinación de habilidades técnicas y conocimiento contable me permite automatizar y optimizar tareas, reportings en departamentos contables y financieros como en otros departamentos. Gracias a mi formación en administración de empresas, puedo no solo analizar datos de manera efectiva, sino también asegurarme de que estos análisis estén alineados con los objetivos estratégicos y financieros de la organización.
+
+Si considerás que mi perfil puede estar alineado con los objetivos de tu empresa y que puedo sumar valor de manera significativa, no duden en considerarme para cualquier oportunidad que pueda encajar.
+<img src="[[https://i.imgur.com/weNbhGZ.pn](https://imgur.com/a/3aNgWuv)g](https://imgur.com/a/3aNgWuv)">
+
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/adriansanchez-garcia/)
+
+
+
+## Sobre mi
+
+- 🏫 Licenciado en Administración y Dirección de empresas 
+- 📊 Contabilidad | Finanzas | Reporting
+- 💹 Análisis de datos: Python |Power BI | SQL |Excel
+- 📗 Blog [Medium](https://medium.com/@adriansg1991)
+<br>
+
