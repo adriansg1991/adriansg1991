@@ -52,5 +52,7 @@ Si considerás que mi perfil puede estar alineado con los objetivos de tu empres
 ## Proyectos
 En este GitHub compartiré diversos proyectos que he desarrollado a lo largo de mi trayecto profesional. Tanto análisis de datos, como automatización de informes y procesos.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/adriansg1991/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adriansg1991&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriansg1991&layout=compact&theme=vision-friendly-dark)](https://github.com/adriansg1991/github-readme-stats)
 
