@@ -25,10 +25,7 @@ Si considerás que mi perfil puede estar alineado con los objetivos de tu empres
 
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/adriansanchez-garcia/)
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
+---
 
 
 ## Sobre mi
