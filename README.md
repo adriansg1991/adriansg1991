@@ -22,3 +22,6 @@ Si considerás que mi perfil puede estar alineado con los objetivos de tu empres
 - 📗 Blog [Medium](https://medium.com/@adriansg1991)
 <br>
 
+
+## Proyectos
+En este GitHub compartiré diversos proyectos que he desarrollado a lo largo de mi trayecto profesional. Estos ejemplos demostrarán cómo puedo ayudar a ahorrar tiempo, minimizar errores y automatizar procesos e informes.
