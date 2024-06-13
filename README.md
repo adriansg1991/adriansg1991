@@ -4,7 +4,7 @@
 ¡Hola a todos!
 
 Mi nombre es Adrián Sánchez y soy graduado en Administración y Dirección de Empresas. A lo largo de mi carrera, he desarrollado una sólida base en contabilidad y finanzas, lo que me ha permitido entender a fondo los procesos contables y financieros dentro de las organizaciones.
-<img src="https://github.com/adriansg1991/adriansg1991/blob/main/Animation%20-%201693826062233%20(1).json" alt="Animación Lottie">
+<img src="https://raw.githubusercontent.com/adriansg1991/adriansg1991/main/Animation%20-%201693826062233%20(1).json" alt="Animación Lottie">
 
 Además, me he especializado en el análisis de datos utilizando herramientas como Python, SQL, Power BI y Excel. Esta combinación de habilidades técnicas y conocimiento contable me permite automatizar y optimizar tareas, reportings en departamentos contables y financieros como en otros departamentos. Gracias a mi formación en administración de empresas, puedo no solo analizar datos de manera efectiva, sino también asegurarme de que estos análisis estén alineados con los objetivos estratégicos y financieros de la organización.
 
