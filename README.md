@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://linkedin.com/in/adriansanchez-garcia">Adrián Sánchez</a> 👋</h1>
 </div>
-¡Hola a todos!
+¡Hola a todos/as!
 
 Mi nombre es Adrián Sánchez y soy graduado en Administración y Dirección de Empresas. A lo largo de mi carrera, he desarrollado una sólida base en contabilidad y finanzas, lo que me ha permitido entender a fondo los procesos contables y financieros dentro de las organizaciones.
 
