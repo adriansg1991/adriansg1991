@@ -54,7 +54,7 @@ En este GitHub compartiré diferentes proyectos que he desarrollado a lo largo d
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Automatización procesos/reporting</h3>
+<h3 align="center">Automatización procesos & reportings</h3>
 <div align="center">
 <a href="https://github.com/adriansg1991/AutomationsReportsProcesses" target="_blank">
 <img src="https://i.imgur.com/UbdXc2Y.png" width="400" alt="Automatización procesos/reporting"></a>
