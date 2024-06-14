@@ -87,7 +87,7 @@ En este GitHub compartiré diferentes proyectos que he desarrollado a lo largo d
 
 </a>
 </p>
-<p><strong>Proyectos ETL Python</strong> - Utiliza Pandas y NumPy junto a librerías de visualización de datos como Matplotlib y Seaborn para completar tu proceso ETL. <strong>Transforma y visualiza tus datos de manera efectiva</strong>, optimizando tus análisis y presentaciones con estas herramientas integrales.</p>
+<p><strong>Proyectos ETL Python</strong>. Utiliza Pandas y NumPy junto a librerías de visualización de datos como Matplotlib y Seaborn para completar tu proceso ETL. <strong>Transforma y visualiza tus datos de manera efectiva</strong>, optimizando tus análisis y presentaciones con estas herramientas integrales.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
@@ -106,7 +106,7 @@ En este GitHub compartiré diferentes proyectos que he desarrollado a lo largo d
 <a href="https://youtu.be/UaR7GSNACsM" target="_blank">
 </a>
 </p>
-<p><strong>Utiliza Python como OCR gracias a PyPDF2</strong> - PyPDF2 es una librería de Python que permite manipular archivos PDF de manera sencilla. Con PyPDF2, puedes extraer datos y texto de PDFs, facilitando el proceso de análisis y procesamiento de documentos. <strong>Convierte tus PDFs en datos utilizables</strong> y optimiza tus flujos de trabajo con esta poderosa herramienta.</p>
+<p><strong>Utiliza Python como OCR gracias a PyPDF2</strong>. PyPDF2 es una librería de Python que permite manipular archivos PDF de manera sencilla. Con PyPDF2, puedes extraer datos y texto de PDFs, facilitando el proceso de análisis y procesamiento de documentos. <strong>Convierte tus PDFs en datos utilizables</strong> y optimiza tus flujos de trabajo con esta poderosa herramienta.</p>
 </div>
                                                                                       
 </td>       
