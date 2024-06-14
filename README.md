@@ -130,3 +130,4 @@ En este GitHub compartiré diferentes proyectos que he desarrollado a lo largo d
 </div>
 <br>
 
+® `Adrián Sánchez García`
