@@ -101,7 +101,7 @@ En este GitHub compartiré diferentes proyectos que he desarrollado a lo largo d
 <a href="https://github.com/adriansg1991/ExtractDataPyPDF" target="_blank"><img src="https://i.imgur.com/ju9LSSW.png" width="400" alt="Extraer datos de pdfs - PyPDF2"></a>
 <p>
 <a href="https://github.com/adriansg1991/ExtractDataPyPDF" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-008080?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://youtu.be/UaR7GSNACsM" target="_blank">
 </a>
