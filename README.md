@@ -49,7 +49,7 @@ Si considerás que mi perfil puede estar alineado con los objetivos de tu empres
 </div>
 
 ## Proyectos
-En este GitHub compartiré diversos proyectos que he desarrollado a lo largo de mi trayecto profesional. Tanto análisis de datos, como automatización de informes y procesos.
+En este GitHub compartiré diferentes proyectos que he desarrollado a lo largo de mi trayectoria profesional. Tanto análisis de datos, como automatización de informes y procesos:
 
 <table>
 <tr>
