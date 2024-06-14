@@ -130,3 +130,7 @@ En este GitHub compartiré diferentes proyectos que he desarrollado a lo largo d
 </div>
 <br>
 
+```
+
+Copyright (c) 2024 - Adrián Sánchez García
+```
