@@ -15,7 +15,7 @@
 ¡Hola a todos/as!
 
 
-Mi nombre es Adrián Sánchez y soy graduado en Administración y Dirección de Empresas. A lo largo de mi carrera, he desarrollado una sólida base en contabilidad y finanzas, lo que me ha permitido entender a fondo los procesos contables y financieros dentro de las organizaciones.
+Mi nombre es Adrián Sánchez y soy graduado en Administración y Dirección de Empresas. A lo largo de mi carrera profesional, he desarrollado una sólida base en contabilidad y finanzas, lo que me ha permitido entender a fondo los procesos contables y financieros dentro de las organizaciones.
 
 Además, me he especializado en el análisis de datos utilizando herramientas como Python, SQL, Power BI y Excel. Esta combinación de habilidades técnicas y conocimiento contable me permite automatizar y optimizar tareas, reportings en departamentos contables y financieros como en otros departamentos. Gracias a mi formación en administración de empresas, puedo no solo analizar datos de manera efectiva, sino también asegurarme de que estos análisis estén alineados con los objetivos estratégicos y financieros de la organización.
 
