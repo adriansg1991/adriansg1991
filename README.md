@@ -29,7 +29,7 @@ Si considerás que mi perfil puede estar alineado con los objetivos de tu empres
 
 - 🏫 Licenciado en Administración y Dirección de empresas 
 - 📊 Contabilidad | Finanzas | Reporting
-- 💹 Análisis de datos: Python |Power BI | SQL |Excel
+- 💹 Análisis de datos: Python | Power BI | SQL |Excel
 - :writing_hand: Blog Portfolio: [Medium](https://medium.com/@adriansg1991)
 <br>
 
