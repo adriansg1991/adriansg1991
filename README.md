@@ -19,7 +19,7 @@ Mi nombre es Adrián Sánchez y soy graduado en Administración y Dirección de 
 
 Además, me he especializado en el análisis de datos utilizando herramientas como Python, SQL, Power BI y Excel. Esta combinación de habilidades técnicas y conocimiento contable me permite automatizar y optimizar tareas, reportings en departamentos contables y financieros como en otros departamentos. Gracias a mi formación en administración de empresas, puedo no solo analizar datos de manera efectiva, sino también asegurarme de que estos análisis estén alineados con los objetivos estratégicos y financieros de la organización.
 
-Si considerás que mi perfil puede estar alineado con los objetivos de tu empresa y que puedo sumar valor de manera significativa, no duden en considerarme para cualquier oportunidad en la que pueda encajar.
+Si consideras que mi perfil puede estar alineado con los objetivos de tu empresa y que puedo sumar valor de manera significativa, no dudes en considerarme para cualquier oportunidad en la que pueda encajar.
 <img src="[[https://i.imgur.com/weNbhGZ.pn](https://imgur.com/a/3aNgWuv)g](https://imgur.com/a/3aNgWuv)">
 
 ---
