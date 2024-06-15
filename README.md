@@ -42,7 +42,7 @@ Si consideras que mi perfil puede estar alineado con los objetivos de tu empresa
   <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://gist.githubusercontent.com/Eduardokopp/9e7872ba3ca293ee1e71362dc5edbb4f/raw/047773d458f688e485a26f6b9b0594457148cbdf/sql-server-icon.svg" title="SQLServer" alt="SQLServer" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" title="SQLServer" alt="SQLServer" width="40" height="40"/>&nbsp;
   <img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" title="PostgreSQL" **alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/512px-New_Power_BI_Logo.svg.png?20210102182532" title="PowerBI" **alt="PowerBI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png" title="Excel" **alt="Excel" width="40" height="40"/>
