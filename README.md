@@ -41,7 +41,7 @@ Si consideras que mi perfil puede estar alineado con los objetivos de tu empresa
   <img src="https://github.com/get-icon/geticon/raw/master/icons/numpy-icon.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
-  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*4P3Uspl6qpWoaajQdtKYKw.png" title="PyPDF2" alt="PyPDF2" width="40" height="40"/>&nbsp;
+  <img src="https://pypdf2.readthedocs.io/en/3.0.0/_static/logo.png" title="PyPDF2" alt="PyPDF2" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"  title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
