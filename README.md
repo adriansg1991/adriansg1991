@@ -45,8 +45,9 @@ Si consideras que mi perfil puede estar alineado con los objetivos de tu empresa
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"  title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-line-wordmark.svg" title="SQLServer" alt="SQLServer" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" title="PostgreSQL" **alt="Trello" width="40" height="40"/>;
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-line-wordmark.svg" title="Trello" **alt="Trello" width="40" height="40"/>
-  <img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" title="PostgreSQL" **alt="Trello" width="40" height="40"/>
+
 
 </div>
 
