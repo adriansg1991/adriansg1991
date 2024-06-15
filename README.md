@@ -47,7 +47,9 @@ Si consideras que mi perfil puede estar alineado con los objetivos de tu empresa
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-line-wordmark.svg" title="SQLServer" alt="SQLServer" width="40" height="40"/>&nbsp;
   <img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" title="PostgreSQL" **alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/512px-New_Power_BI_Logo.svg.png?20210102182532" title="PowerBI" **alt="PowerBI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png" title="Excel" **alt="Excel" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-line-wordmark.svg" title="Trello" **alt="Trello" width="40" height="40"/>
+
 </div>
 
 ## Proyectos
